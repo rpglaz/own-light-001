@@ -4,4 +4,3 @@ Big kudos and thanks for inspiration to [bubersson](https://marketplace.visualst
 
 Original theme:
 [Hop Light](https://marketplace.visualstudio.com/items?itemName=bubersson.theme-hop-light)
-
